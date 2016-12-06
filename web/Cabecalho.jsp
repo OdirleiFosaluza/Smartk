@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col-md-4">
                 <a href="index.html" title="SmartK">
-                    <img src="img/logo-negativo.png" alt="" height="60" >
+                    <img src="img/logo-negativo.png" alt="SmartK" height="60" >
                 </a>
             </div>
 
